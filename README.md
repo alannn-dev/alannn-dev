@@ -6,7 +6,7 @@
 <p>My name is Alan, I'm a front-end developer and designer and I come from France. I love to mix code with design and build good user experiences with unique and creative interfaces with nice animations. Remote developer and always looking for new creative & technical challenges, I'm available worldwide for freelance missions. Let's get in touch and build something special together 😎 :</p>
 
 
-<a href="#"><p align="center"><img src="https://github.com/heybeec/heybeec/blob/main/img/icons8-vers-le-bas.gif" height="70px" width="50px"/></p></a>
+<a href="#"><p align="center"><img src="https://github.com/heybeec/heybeec/blob/main/img/icons8-vers-le-bas.gif" height="60px" width="50px"/></p></a>
 
 <a href="mailto: hello@alannn.com"><p align="center"><img src="https://github.com/heybeec/heybeec/blob/main/img/mail.svg" width="60px"/></p></a> 
 
