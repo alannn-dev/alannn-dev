@@ -8,7 +8,7 @@
 
 <a href="#"><p align="center"><img src="https://github.com/heybeec/heybeec/blob/main/img/icons8-vers-le-bas.gif" height="60px" width="50px"/></p></a>
 
-<a href="mailto: hello@alannn.com"><p align="center"><img src="https://github.com/heybeec/heybeec/blob/main/img/mail.svg" width="60px"/></p></a> 
+<p align="center"><a href="mailto: hello@alannn.com"><img src="https://github.com/heybeec/heybeec/blob/main/img/mail.svg" width="60px"/></a></p>
 
 
 <h1 align="center"><a href="#"><img src="https://github.com/heybeec/heybeec/blob/main/img/language-tools-github-profile.png"/></h1>   
