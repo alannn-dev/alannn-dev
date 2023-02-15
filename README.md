@@ -3,7 +3,7 @@
 <h1 align="center"><a href="#"><img src="https://github.com/heybeec/heybeec/blob/main/img/hello-there-github-profile-readme.png"/></a></h1> 
    
 </br>
-<p>My name is Alan, I'm a front-end developer and designer and I come from France. I love to mix code with design and build good user experiences with unique and creative interfaces with nice animations. Remote developer and always looking for new creative & technical challenges, I'm available worldwide for freelance missions. Let's get in touch and build something special together 😎 :</p>
+<p>My name is Alan, and I am a front-end developer and designer from France. I enjoy combining coding and design to create excellent user experiences with unique and creative interfaces that feature delightful animations. As a remote developer, I am always seeking out new creative and technical challenges, and I am available worldwide for freelance work. Let's connect and collaborate on building something special together 😎 :</p>
 
 
 <a href="#"><p align="center"><img src="https://github.com/heybeec/heybeec/blob/main/img/icons8-vers-le-bas.gif" height="60px" width="50px"/></p></a>
