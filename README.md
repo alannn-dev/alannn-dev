@@ -1,4 +1,4 @@
-<a href="#"><img src="https://github.com/heybeec/heybeec/blob/main/img/alannn.png" width="100%"/></a>
+<a href="#"><img src="https://github.com/heybeec/heybeec/blob/main/img/alannn-react-three-js-webgl.jpg" width="100%"/></a>
 
 <h1 align="center"><a href="#"><img src="https://github.com/heybeec/heybeec/blob/main/img/hello-there-github-profile-readme.png"/></a></h1> 
    
@@ -15,7 +15,7 @@
 
  <!--<h2 align="center">Front-end development and design</h2>-->
 
-<p align="center"><img src="https://github.com/heybeec/heybeec/blob/main/img/webgl-three-js-front-end-developer.png" width="100%"/></p>
+<p align="center"><img src="https://github.com/heybeec/heybeec/blob/main/img/Github-footer-skills-react-three-js-webgl.jpg" width="100%"/></p>
    
 <!--![HTML5](https://img.icons8.com/color/60/html-5.png)![CSS3](https://img.icons8.com/color/60/css3.png)<a href="#"><img src="https://github.com/heybeec/heybeec/blob/main/img/svg.svg" width="60px"/></a>![JavaScript](https://img.icons8.com/color/60/javascript.png)![WEBPACK](https://img.icons8.com/color/60/webpack.png)![VUE](https://img.icons8.com/color/60/vue-js.png)![SASS](https://img.icons8.com/color/60/sass.png)![NPM](https://img.icons8.com/color/60/npm.png)![Github](https://img.icons8.com/material-outlined/55/github.png)![Git](https://img.icons8.com/color/60/git.png)![VSCode](https://img.icons8.com/color/60/visual-studio-code-2019.png) <a href="#"><img src="https://github.com/heybeec/heybeec/blob/main/img/Illustrator.svg" width="55px"/></a>
 <a href="#"><img src="https://github.com/heybeec/heybeec/blob/main/img/photoshop.svg" width="55px"/></a>
