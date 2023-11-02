@@ -1,4 +1,4 @@
-<a href="#"><img src="https://github.com/heybeec/heybeec/blob/main/img/alannn-creative-developer.png" width="100%"/></a>
+<a href="#"><img src="https://github.com/heybeec/heybeec/blob/main/img/alannn-banner-3D.png" width="100%"/></a>
 
 <h1 align="center"><a href="#"><img src="https://github.com/heybeec/heybeec/blob/main/img/hello-there-github-profile-readme.png"/></a></h1> 
    
