@@ -25,8 +25,8 @@
 </br>
 </br>
 <p align="center"><a href = "https://www.linkedin.com/in/creative-front-end-developer-designer/"><img src="https://github.com/heybeec/heybeec/blob/main/img/linkedin-brands.svg" width="25px"/></a>
-<a href = "https://www.instagram.com/alannn.o/"><img src="https://github.com/heybeec/heybeec/blob/main/img/instagram-brands.svg" width="25px"/></a>
-<a href = "https://twitter.com/alannn_dev"><img src="https://github.com/heybeec/heybeec/blob/main/img/twitter-square-brands.svg" width="25px"/></a>
+<a href = "https://www.instagram.com/alannn.art/"><img src="https://github.com/heybeec/heybeec/blob/main/img/instagram-brands.svg" width="25px"/></a>
+<a href = "https://twitter.com/alannn_art"><img src="https://github.com/heybeec/heybeec/blob/main/img/twitter-square-brands.svg" width="25px"/></a>
 </a><a href = "https://dribbble.com/alannn-com"><img src="https://github.com/heybeec/heybeec/blob/main/img/basketball-solid.svg" width="25px"/></a>
 </a><a href ="https://www.behance.net/alannn"><img src="https://github.com/heybeec/heybeec/blob/main/img/behance-square-brands.svg" width="25px"/></a>
 </a></p>
